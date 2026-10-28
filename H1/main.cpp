@@ -4,7 +4,7 @@
 void calcSum(int a, int b)  {
     int sum = a + b;
     std::cout << "sum: " << sum << '\n';
-    }
+}
 
 int retSum(int a, int b)  {
     int sum = a + b;
